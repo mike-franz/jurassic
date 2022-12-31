@@ -1505,7 +1505,7 @@ namespace Jurassic
                 currentlyExecutingPostExecuteSteps = false;
             }
         }
-
+        
         /// <summary>
         /// Clears (and does not execute) all queued post-execute actions.
         /// </summary>
